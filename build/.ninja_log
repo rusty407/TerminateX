@@ -1,0 +1,18 @@
+# ninja log v7
+2	433	1787944584913554070	CMakeFiles/terminatex.dir/src/server.cpp.o	7a7a41be1c74a334
+3	411	1787944584914554093	CMakeFiles/terminatex.dir/src/output.cpp.o	c0ae20cc9f7b5cfd
+3	452	1787944584915001057	CMakeFiles/terminatex.dir/src/view.cpp.o	340c6c1f623ccf4d
+4	456	1787944584915554116	CMakeFiles/terminatex.dir/src/input.cpp.o	f50f7e2f0880ab88
+5	852	1787944584917554163	CMakeFiles/terminatex.dir/src/main.cpp.o	1471f3e445aa2e11
+852	987	1787944585763573816	terminatex	e705f1a07d3319b2
+1	58	1787944879166004445	build.ninja	28f0cc0d3cebfd25
+1	58	1787944879166004445	/home/console/personal/TerminateX/build/cmake_install.cmake	28f0cc0d3cebfd25
+2	330	1787944879177154563	CMakeFiles/terminatex.dir/src/view.cpp.o	340c6c1f623ccf4d
+4	401	1787944879178390235	CMakeFiles/terminatex.dir/src/tx_config.c.o	1d9edaeb3b7666ee
+3	669	1787944879177390212	CMakeFiles/terminatex.dir/src/input.cpp.o	f50f7e2f0880ab88
+2	678	1787944879176390189	CMakeFiles/terminatex.dir/src/output.cpp.o	c0ae20cc9f7b5cfd
+1	816	1787944879175390165	CMakeFiles/terminatex.dir/src/server.cpp.o	7a7a41be1c74a334
+5	1278	1787944879179390258	CMakeFiles/terminatex.dir/src/main.cpp.o	1471f3e445aa2e11
+1278	1416	1787944880453419857	terminatex	73cce45c1edd389
+2	93	1787944892693704225	CMakeFiles/terminatex.dir/src/tx_config.c.o	1d9edaeb3b7666ee
+93	246	1787944892784706339	terminatex	73cce45c1edd389

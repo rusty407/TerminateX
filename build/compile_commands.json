@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/console/personal/TerminateX/build",
+  "command": "/usr/bin/cc -DWLR_USE_UNSTABLE -D_GNU_SOURCE -I/home/console/personal/TerminateX/src -I/usr/include/wlroots-0.21 -I/usr/include/pixman-1 -I/usr/include/libdrm -x c -g -std=gnu11 -Wall -Wextra -Wno-unused-parameter -g3 -O0 -o CMakeFiles/terminatex.dir/src/server.cpp.o -c /home/console/personal/TerminateX/src/server.cpp",
+  "file": "/home/console/personal/TerminateX/src/server.cpp",
+  "output": "/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir/src/server.cpp.o"
+},
+{
+  "directory": "/home/console/personal/TerminateX/build",
+  "command": "/usr/bin/cc -DWLR_USE_UNSTABLE -D_GNU_SOURCE -I/home/console/personal/TerminateX/src -I/usr/include/wlroots-0.21 -I/usr/include/pixman-1 -I/usr/include/libdrm -x c -g -std=gnu11 -Wall -Wextra -Wno-unused-parameter -g3 -O0 -o CMakeFiles/terminatex.dir/src/output.cpp.o -c /home/console/personal/TerminateX/src/output.cpp",
+  "file": "/home/console/personal/TerminateX/src/output.cpp",
+  "output": "/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir/src/output.cpp.o"
+},
+{
+  "directory": "/home/console/personal/TerminateX/build",
+  "command": "/usr/bin/cc -DWLR_USE_UNSTABLE -D_GNU_SOURCE -I/home/console/personal/TerminateX/src -I/usr/include/wlroots-0.21 -I/usr/include/pixman-1 -I/usr/include/libdrm -x c -g -std=gnu11 -Wall -Wextra -Wno-unused-parameter -g3 -O0 -o CMakeFiles/terminatex.dir/src/view.cpp.o -c /home/console/personal/TerminateX/src/view.cpp",
+  "file": "/home/console/personal/TerminateX/src/view.cpp",
+  "output": "/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir/src/view.cpp.o"
+},
+{
+  "directory": "/home/console/personal/TerminateX/build",
+  "command": "/usr/bin/cc -DWLR_USE_UNSTABLE -D_GNU_SOURCE -I/home/console/personal/TerminateX/src -I/usr/include/wlroots-0.21 -I/usr/include/pixman-1 -I/usr/include/libdrm -x c -g -std=gnu11 -Wall -Wextra -Wno-unused-parameter -g3 -O0 -o CMakeFiles/terminatex.dir/src/input.cpp.o -c /home/console/personal/TerminateX/src/input.cpp",
+  "file": "/home/console/personal/TerminateX/src/input.cpp",
+  "output": "/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir/src/input.cpp.o"
+},
+{
+  "directory": "/home/console/personal/TerminateX/build",
+  "command": "/usr/bin/cc -DWLR_USE_UNSTABLE -D_GNU_SOURCE -I/home/console/personal/TerminateX/src -I/usr/include/wlroots-0.21 -I/usr/include/pixman-1 -I/usr/include/libdrm -x c -g -std=gnu11 -Wall -Wextra -Wno-unused-parameter -g3 -O0 -o CMakeFiles/terminatex.dir/src/tx_config.c.o -c /home/console/personal/TerminateX/src/tx_config.c",
+  "file": "/home/console/personal/TerminateX/src/tx_config.c",
+  "output": "/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir/src/tx_config.c.o"
+},
+{
+  "directory": "/home/console/personal/TerminateX/build",
+  "command": "/usr/bin/c++ -DWLR_USE_UNSTABLE -D_GNU_SOURCE -I/home/console/personal/TerminateX/src -I/usr/include/wlroots-0.21 -I/usr/include/pixman-1 -I/usr/include/libdrm -g -std=c++23 -Wall -Wextra -Wno-unused-parameter -g3 -O0 -o CMakeFiles/terminatex.dir/src/main.cpp.o -c /home/console/personal/TerminateX/src/main.cpp",
+  "file": "/home/console/personal/TerminateX/src/main.cpp",
+  "output": "/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir/src/main.cpp.o"
+}
+]

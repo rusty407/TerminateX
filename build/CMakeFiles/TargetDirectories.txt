@@ -1,0 +1,3 @@
+/home/console/personal/TerminateX/build/CMakeFiles/terminatex.dir
+/home/console/personal/TerminateX/build/CMakeFiles/edit_cache.dir
+/home/console/personal/TerminateX/build/CMakeFiles/rebuild_cache.dir
